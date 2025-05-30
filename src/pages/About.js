@@ -8,7 +8,7 @@ function About() {
 
       {/* Profile photo */}
       <img
-        src="/images/profile.JPGJPG"
+        src="/images/profile.JPG"
         alt="Yiwei Li"
         style={{
           borderRadius: '50%',
