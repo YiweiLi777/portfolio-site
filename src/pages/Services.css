@@ -1,0 +1,25 @@
+.services-container {
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+.services-banner {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  margin: 1rem auto;
+  display: block;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.service-list {
+  list-style-type: square;
+  padding-left: 2rem;
+  margin-top: 1.5rem;
+}
+
+.service-list li {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
